@@ -1,0 +1,24 @@
+# Node and build artifacts
+node_modules/
+cache/
+artifacts/
+dist/
+
+# Environment and secrets
+.env
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+
+# TypeScript build outputs
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: ignore temporary test files
+test-results/
+coverage/
