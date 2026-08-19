@@ -44,4 +44,4 @@ By reporting, you agree to keep vulnerabilities private until resolved.
 
 ## 📧 Contact
 For security concerns, please reach out to the maintainers directly.  
-(Replace with your preferred contact method, e.g., email or GitHub security advisory.)
+Through PRs
